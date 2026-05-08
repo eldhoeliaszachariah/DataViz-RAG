@@ -1,0 +1,11 @@
+__pycache__
+.venv
+.env
+.ipynb_checkpoints/
+backup/
+scratch/
+*.log
+*.pdf
+static/images/extracted/
+uploads/
+flask_app_19_backup.py
