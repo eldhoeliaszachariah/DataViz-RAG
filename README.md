@@ -1,5 +1,25 @@
 ---
 
+## Demo
+
+<p align="center">
+  <img src="assets/demo1.gif" alt="Demo 1 - Upload & Chat" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/demo2.gif" alt="Demo 2 - Condition Filter" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/demo3.gif" alt="Demo 3 - Viz Block Matching" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/demo4.gif" alt="Demo 4 - Follow-up Questions" width="700"/>
+</p>
+
+---
+
 ## System Architecture Overview
 
 This system is a **modular Flask-based RAG pipeline** for PDF documents containing both text and embedded JSON data visualizations. It follows a clean separation-of-concerns pattern with 16 modules. Here's the complete breakdown:
