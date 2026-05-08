@@ -2,7 +2,7 @@
 
 ## System Architecture Overview
 
-Your system is a **modular Flask-based RAG pipeline** for PDF documents containing both text and embedded JSON data visualizations. It follows a clean separation-of-concerns pattern with 16 modules. Here's the complete breakdown:
+This system is a **modular Flask-based RAG pipeline** for PDF documents containing both text and embedded JSON data visualizations. It follows a clean separation-of-concerns pattern with 16 modules. Here's the complete breakdown:
 
 ---
 
